@@ -36,11 +36,11 @@ class WelcomeScreen extends StatelessWidget {
                         ),
                       ),
                       TextSpan(
-                        text: '\nprotecting your car \n',
+                        text: '\nkeeping your car safe, always! \n',
                         style: TextStyle(
-                          fontSize: 35,
+                          fontSize: 25,
                           color: Colors.green,
-                          fontWeight: FontWeight.w800,
+                          fontWeight: FontWeight.w600,
                         ),
                       ),
                     ],

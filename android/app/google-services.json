@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612637807217",
+    "project_id": "legacycar-sec",
+    "storage_bucket": "legacycar-sec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612637807217:android:cff9323873edf3d4de01d0",
+        "android_client_info": {
+          "package_name": "com.example.please"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvF_G0GBxRM3jXfOkXc4PlP6YIkFwI2rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
